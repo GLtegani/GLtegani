@@ -11,7 +11,7 @@
 
 Atualmente estudando Dart e Flutter. 📱
 
-## Linkedin:
+## Contato:
 
 <div>
    
