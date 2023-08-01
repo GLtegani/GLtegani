@@ -3,14 +3,16 @@
 ## Tecnologias 🖥️
 
 <div style="display: inline_block"><br/>
-  <img align="center" "alt="dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img align="center" "alt="flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img align="center" "alt="html" src="https://img.shields.io/badge/Html-0175C2?style=for-the-badge&logo=html&logoColor=white" />
+  <img align="center" "alt="css" src="https://img.shields.io/badge/Css-02569B?style=for-the-badge&logo=css&logoColor=white" />
+  <img align="center" "alt="javascript" src="https://img.shields.io/badge/Javascript-02569B?style=for-the-badge&logo=javascript&logoColor=white" />  
+  
 </div><br/>
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=GLtegani&show_icons=true&theme=tokyonight)
 
 
-Atualmente estudando Dart e Flutter. 📱
+Atualmente estudando HTML, CSS e JavaScript. 
 
 ## Contato:
 
