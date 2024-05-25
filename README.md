@@ -14,7 +14,7 @@
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=GLtegani&show_icons=true&theme=tokyonight)
 
 
-Atualmente estudando React.js + Typescript para desenvolvimento web.
+Atualmente estudando React.js + Typescript + Tailwind css para desenvolvimento web.
 
 ## Contato:
 
